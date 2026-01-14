@@ -1,5 +1,3 @@
-from google import genai
-
 client = genai.Client()
 
 # Desteklenen modelleri güvenli şekilde listele
