@@ -9,7 +9,7 @@ def generate_pdf(username, role, analysis_text):
 
     # Başlık
     pdf.set_font("Arial", "B", 16)
-    pdf.cell(0, 10, "✨ Lümen-AI Kod Analiz Raporu", ln=True)
+    pdf.cell(0, 10, " Lümen-AI Kod Analiz Raporu", ln=True)
 
     pdf.ln(5)
 
