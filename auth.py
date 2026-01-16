@@ -1,3 +1,7 @@
+
+# Mevcut güvenlik yapısı temel seviyededir. 
+# Verileri daha profesyonel yöntemlerle korumayı öğrendikçe bu modül güncellenecektir.
+
 import sqlite3
 import bcrypt
 
