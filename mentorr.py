@@ -1,7 +1,7 @@
 #07.11.25 
 # mentor.py 
 # Lümen-AI / tek dosya
-# temel: profil + takip + DM + bildirim + grup chat + analiz + geçmiş + eşleşme 
+# temel: profil + takip + DM + bildirim + grup chat + analiz + geçmiş + eşleşme bunlar kendime not sonra silicem zaten kimse görmüyor eğleniyorum :d
 
 
 import os
