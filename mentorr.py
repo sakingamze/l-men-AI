@@ -22,8 +22,8 @@ from pdf_report import generate_pdf
 
 
 # --------------------
-# UI metinleri (tek çizgi)
-# --------------------
+# UI metinleri (tek çizgi) # şuraları da düzenle daha samimi bir şeyler bul millet zaten gergin 
+# --------------
 UI = {
     "login_ok": "Giriş başarılı. Hoş geldin, {user}.",
     "login_fail": "Giriş bilgileri hatalı görünüyor. Tekrar kontrol edebilir misin?",
@@ -45,6 +45,7 @@ st.set_page_config(page_title="Lümen-AI", page_icon="✨", layout="wide")
 
 st.markdown("""
 <style>
+#hardal/indigo/gri / bej bir şey daha fazla onu hatırla Gamze bide fonta el at gözünü seveyim 
 :root{
   --bg:#F5F1E8;
   --card:#FFF9F0;   
@@ -55,6 +56,7 @@ st.markdown("""
   --mustard:#C9A227;
   --border:#D6CCBB;
   --shadow:0 10px 25px rgba(0,0,0,.06);
+#sonra karanlık tema falan filan ekle  
 }
 html, body, .stApp, [data-testid="stAppViewContainer"]{
   background:var(--bg) !important;
