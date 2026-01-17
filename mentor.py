@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import os
 
 # --------------------
-# İlk kurulum
+# İlk kurulum 
 # --------------------
 create_user_table()
 
